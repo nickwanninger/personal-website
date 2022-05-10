@@ -41,14 +41,14 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year} Nick Wanninger. This work is licensed under {license}'
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
 
 # Localization
 
@@ -65,6 +65,8 @@ features:
     extra_languages:
       - r
       - latex
+      - c
+      - rust
   math:
     enable: false
   privacy_pack:
@@ -83,13 +85,13 @@ features:
       show_count: true
     commento:
       url: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
+  # search:
+  #   provider: wowchemy
+  #   algolia:
+  #     app_id: ''
+  #     api_key: ''
+  #     index_name: ''
+  #     show_logo: false
   map:
     provider: ''
     api_key: ''
@@ -97,9 +99,9 @@ features:
 
 # Extensions
 
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
+# extensions:
+#   cms:
+#     branch: main
+#     local_backend: false
+#   academicons:
+#     enable: true

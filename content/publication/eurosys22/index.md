@@ -31,7 +31,7 @@ abstract: An important class of applications, including programs that leverage
   with acceptable slowdowns.
 draft: false
 url_pdf: /papers/eurosys22.pdf
-featured: false
+featured: true
 tags:
   - Virtualization
   - Execution Environments

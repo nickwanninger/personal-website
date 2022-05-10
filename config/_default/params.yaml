@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: ncw
+  theme_night: ncw
+  font: native
+  font_size: m
 
 # SEO
 
@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: "Nick Wanninger's Home Page"
+    twitter: 'nickwanninger'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-67236541-5'
     baidu_tongji: ''
   verification:
     google: ''
@@ -32,23 +32,23 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
 # Site footer
 
-# footer:
-#   copyright:
-#     notice: '© {year} Nick Wanninger. This work is licensed under {license}'
-#     license:
-#       enable: true
-#       allow_derivatives: false
-#       share_alike: true
-#       allow_commercial: false
+footer:
+  copyright:
+    notice: '© {year} Nick Wanninger. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 

@@ -16,4 +16,7 @@ main:
   - name: Posts
     url: '#posts'
     weight: 4
+  - name: Chariot
+    url: 'https://github.com/ChariotOS/chariot'
+    weight: 5
 

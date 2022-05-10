@@ -1,6 +1,6 @@
 ---
-title: Chariot
-subtitle: The Chariot Operating System
+title: The Chariot Operating System
+subtitle: ""
 date: 2022-05-10T04:27:19.704Z
 draft: false
 featured: true

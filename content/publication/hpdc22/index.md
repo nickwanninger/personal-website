@@ -10,8 +10,8 @@ authors:
   - Alex Bernat
   - Charles Bernat
   - Souradip Ghosh
-publication: EuroSys 2022
-publication_short: EuroSys22
+publication: HPDC 2022
+publication_short: HPDC'22
 abstract: "Alternatives to IEEE floating point arithmetic have become all the
   rage. Some extract more representational power out of the avail- able bits.
   Others offer the potential for lower or higher precision than is available in
@@ -35,7 +35,7 @@ draft: false
 featured: false
 tags:
   - Virtualization
-  - Execution Environments
+  - Floating Point
 categories: []
 projects: []
 summary: ""

@@ -4,7 +4,7 @@ role: Systems Ph.D. Student
 interests:
   - Kernel Design
   - Runtime Systems
-  - Compilers
+  - Virtualization
 social:
   - icon: twitter
     icon_pack: fab

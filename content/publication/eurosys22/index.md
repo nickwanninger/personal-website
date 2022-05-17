@@ -1,6 +1,6 @@
 ---
 title: Isolating Functions at the Hardware Limit with Virtines
-subtitle: asdfasdf
+subtitle: ""
 publication_types:
   - "1"
 authors:

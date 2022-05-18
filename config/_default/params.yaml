@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  # theme_day: ncw
+  theme_day: ncw
   theme_night: ncw
   font: native
   font_size: m

@@ -41,4 +41,5 @@ projects: []
 summary: ""
 lastmod: 2022-05-09T22:01:04-05:00
 date: 2022-05-09T22:01:04-05:00
+url_pdf: /papers/hpdc22.pdf
 ---
